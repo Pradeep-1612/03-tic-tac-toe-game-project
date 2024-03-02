@@ -1,4 +1,4 @@
-# 03-tic-tac-toe-starting-project
+# 03-tic-tac-toe-game-project
 
 ### 1. To install dependencies
 > npm install
